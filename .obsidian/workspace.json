@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md"
+                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01e3226580ff5f7e",
+  "active": "900d669e5d5eedb8",
   "lastOpenFiles": [
+    "Ultimate Sonic the Hedgehog/~syncthing~.shareit_beyla_ids.cfg.tmp",
+    "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
     "Ultimate Sonic the Hedgehog/Egg Beacons.md",
     "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
-    "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
     "~syncthing~.shareit_beyla_ids.cfg.tmp",
     "Ultimate Sonic the Hedgehog/Games",
-    "Ultimate Sonic the Hedgehog/~syncthing~.shareit_beyla_ids.cfg.tmp",
     "Ultimate Sonic the Hedgehog"
   ]
 }
