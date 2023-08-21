@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c9f4a5c1bc7a25e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "52bfa3fa1fbf13a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e3226580ff5f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aced35066297efe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a098dda06711de01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "900d669e5d5eedb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff1bf6a36af3e27a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef32361898384043",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ab1a2261981ca36",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d70d9f3e3079aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94e0b3945a1127e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "330531ed3e43ff67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "767cb4c2cd3f5525",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "717559b75cb4b8f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "01e3226580ff5f7e",
+  "lastOpenFiles": [
+    "Ultimate Sonic the Hedgehog/Egg Beacons.md",
+    "~syncthing~.shareit_beyla_ids.cfg.tmp",
+    "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+    "Ultimate Sonic the Hedgehog/Games",
+    "Ultimate Sonic the Hedgehog/~syncthing~.shareit_beyla_ids.cfg.tmp",
+    "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+    "Ultimate Sonic the Hedgehog"
+  ]
+}

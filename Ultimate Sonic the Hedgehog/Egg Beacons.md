@@ -1,0 +1,1 @@
+Egg Beacons, also known as Goal Plates & Spinning Signs, are network connection of the Zone with local groups of Badniks.

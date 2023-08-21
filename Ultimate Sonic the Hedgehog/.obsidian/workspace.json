@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "da73ce8c740c2990",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53c699879917c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e506a4a9292ba75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic the Hedgehog (16-bit).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a8adcb07bb1a98d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sonic the Hedgehog (16-bit).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8def190cd8eb933e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb027fff4fb2328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "528e2730fecca11d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64b3146d233fd3cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d955cec3e3d0609f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d86b8db8a623b9bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb756a593f617aec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8099bab6ecca3eb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sonic the Hedgehog (16-bit).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "028bc4a4112e2faa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sonic the Hedgehog (16-bit).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59e6670242274200",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "316c5f1da1fc1362",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sonic the Hedgehog (16-bit).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "5a8adcb07bb1a98d",
+  "lastOpenFiles": [
+    "Sonic the Hedgehog (16-bit).md",
+    "~syncthing~Sonic the Hedgehog (16-bit).md.tmp",
+    "Egg Beacons.md",
+    "Bez nazwy",
+    "South Island.md",
+    "Islands.md",
+    "Zone.md",
+    "Special Stage.md",
+    "Scrap Brain Zone.md",
+    "Marble Zone.md",
+    "Dr. Eggman.md",
+    "Green Hill Zone.md",
+    "Sonic the Hedgehog.md",
+    "Bez nazwy.canvas",
+    "Chaos Emeralds.md",
+    "Incidents.md",
+    "island.md",
+    "Scrap Brain.md",
+    "Scrap Brain [[Zone.md"
+  ]
+}
