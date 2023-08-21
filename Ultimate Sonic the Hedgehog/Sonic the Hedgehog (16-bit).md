@@ -10,6 +10,4 @@ After waking up, Blue Blur looked around, noticing that he is at the same spot a
 
 As his animal friends got freed, they told Blue Blur about their friends getting captured in the ruins of [[Marble Zone||Marble]] [[Zone]]. Not wasting a second, our hero immediately went ahead, destroying hordes of Badniks on the way. Structures of [[Marble Zone||Marble]] [[Zone]] felt the crunch of time on their bricks, as Sonic wandered around, only to imagine how in their times they shined with greatness. Now the only inhabitants left were the small animals digging burrows in marble, and yet, their appearance was cut short by the claws of nefarious [[Dr. Eggman||Doctor Robotnik]]. As he went inside of one of the shrines, he was met with a shady figure hidden in the corner. [[Rava the Destroyer||The figure]] welcomed Sonic to his lair and asked blue blur to sit. As Sonic sat down, the old man stepped out of the shadow to have a closer look at the newcomer. Although his presence was still hidden within the ragged cloak, only showing his clawed hands. The man asked him if he'd like to listen to the legend of seven stones and the one to rule them all. Sonic, curious what the man is about to say, showed interest in legend. The man's grin shined through the cloak & started to tell a [[The Legend of Seven Emeralds & their Master||tale]].
 
-aksdasgbdfgsAIUYGGYS
-
 Tags: #Games
