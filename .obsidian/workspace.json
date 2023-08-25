@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
+                "file": "Ultimate Sonic the Hedgehog/Incidents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
+                "file": "Ultimate Sonic the Hedgehog/Incidents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
+                "file": "Ultimate Sonic the Hedgehog/Incidents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md"
+                "file": "Ultimate Sonic the Hedgehog/Incidents.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "01e3226580ff5f7e",
   "lastOpenFiles": [
-    "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
     "Ultimate Sonic the Hedgehog/Sonic the Hedgehog (16-bit).md",
+    "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+    "Ultimate Sonic the Hedgehog/Incidents.md",
     "Ultimate Sonic the Hedgehog/Egg Beacons.md",
     "Ultimate Sonic the Hedgehog/~syncthing~.shareit_beyla_ids.cfg.tmp",
     "~syncthing~.shareit_beyla_ids.cfg.tmp",
