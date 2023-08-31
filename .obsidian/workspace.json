@@ -11,12 +11,8 @@
             "id": "07aca12095bd3784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Super Mario Bros/Characters/Crazy Junior.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Super Mario Bros/Characters/Crazy Junior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Super Mario Bros/Characters/Crazy Junior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ultimate Super Mario Bros/Characters/Crazy Junior.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "07aca12095bd3784",
   "lastOpenFiles": [
-    "Ultimate Super Mario Bros/Games/Crazy Kong Part II.md",
     "Ultimate Super Mario Bros/Characters/Crazy Junior.md",
+    "Ultimate Super Mario Bros/Games/Crazy Kong Part II.md",
     "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
     "Ultimate Super Mario Bros/Characters/Super Boy.md",
     "Ultimate Super Mario Bros/Games/Popeye (Arcade).md",
