@@ -11,12 +11,8 @@
             "id": "786311eb35c20049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "900d669e5d5eedb8",
+  "active": "786311eb35c20049",
   "lastOpenFiles": [
+    "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
     "Ultimate Sonic the Hedgehog/Characters",
     "Marble Warrior.md",
-    "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
     "Ultimate Super Mario Bros/Games/Crazy Kong (Falcon).md",
     "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
     "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
@@ -182,7 +174,6 @@
     "Ultimate Sonic the Hedgehog/Locations",
     "Ultimate Sonic the Hedgehog/Games",
     "Ultimate Sonic the Hedgehog/~syncthing~.shareit_beyla_ids.cfg.tmp",
-    "~syncthing~.shareit_beyla_ids.cfg.tmp",
-    "Ultimate Sonic the Hedgehog/Games"
+    "~syncthing~.shareit_beyla_ids.cfg.tmp"
   ]
 }
