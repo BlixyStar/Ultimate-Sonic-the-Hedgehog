@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md"
+                "file": "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "786311eb35c20049",
+  "active": "900d669e5d5eedb8",
   "lastOpenFiles": [
-    "Giant Ring.md",
+    "Ultimate Sonic the Hedgehog/Characters",
+    "Marble Warrior.md",
+    "Ultimate Sonic the Hedgehog/Characters/Marble Golems.md",
+    "Ultimate Super Mario Bros/Games/Crazy Kong (Falcon).md",
+    "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
     "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+    "Giant Ring.md",
     "Ultimate Sonic the Hedgehog/Eggtech/Egg Beacons.md",
     "Ultimate Super Mario Bros/Games/Family Basic Famicom.md",
-    "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
     "Ultimate Super Mario Bros/Games/Punch Out (NES).md",
     "Ultimate Super Mario Bros/Games/Punch Out (Arcade).md",
     "Ultimate Super Mario Bros/Games/Tennis (NES).md",
@@ -170,10 +174,6 @@
     "Ultimate Super Mario Bros/Games/Super Boy 3.md",
     "Ultimate Super Mario Bros/Games/Super Mario Bros. 3 & Commander Keen.md",
     "Ultimate Super Mario Bros/Games/Super Mario Bros. (MsDOS).md",
-    "Ultimate Super Mario Bros/Games/Super Boy I..md",
-    "Ultimate Super Mario Bros/Games/Donkey Kong 3 (Hudson).md",
-    "Ultimate Super Mario Bros/Games/Donkey Kong (Arcade).md",
-    "Ultimate Super Mario Bros/Characters/Lady Louise.md",
     "Ultimate Super Mario Bros/Characters",
     "Ultimate Super Mario Bros/Games",
     "Ultimate Super Mario Bros",
