@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07aca12095bd3784",
+            "id": "786311eb35c20049",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md"
+              }
             }
           }
         ]
@@ -138,11 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07aca12095bd3784",
+  "active": "786311eb35c20049",
   "lastOpenFiles": [
+    "Giant Ring.md",
+    "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+    "Ultimate Sonic the Hedgehog/Eggtech/Egg Beacons.md",
+    "Ultimate Super Mario Bros/Games/Family Basic Famicom.md",
+    "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
+    "Ultimate Super Mario Bros/Games/Punch Out (NES).md",
+    "Ultimate Super Mario Bros/Games/Punch Out (Arcade).md",
+    "Ultimate Super Mario Bros/Games/Tennis (NES).md",
+    "Ultimate Super Mario Bros/Games/Mario's Bombs Away.md",
+    "Ultimate Super Mario Bros/Games/Mario's Cement Factory G&W (Modern).md",
+    "Ultimate Super Mario Bros/Games/Mario's Cement Factory.md",
+    "Ultimate Super Mario Bros/Games/Donkey Kong Jr. (Tabletop).md",
+    "The Resistance.md",
     "Ultimate Super Mario Bros/Characters/Crazy Junior.md",
     "Ultimate Super Mario Bros/Games/Crazy Kong Part II.md",
-    "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
     "Ultimate Super Mario Bros/Characters/Super Boy.md",
     "Ultimate Super Mario Bros/Games/Popeye (Arcade).md",
     "Ultimate Super Mario Bros/Games/Super Boy II..md",
@@ -154,18 +174,6 @@
     "Ultimate Super Mario Bros/Games/Donkey Kong 3 (Hudson).md",
     "Ultimate Super Mario Bros/Games/Donkey Kong (Arcade).md",
     "Ultimate Super Mario Bros/Characters/Lady Louise.md",
-    "Ultimate Super Mario Bros/Characters/Mario Rescuer (Jumpman).md",
-    "Ultimate Super Mario Bros/Characters/Donkey Kong.md",
-    "Ultimate Super Mario Bros/Games/Donkey Kong (Game Boy).md",
-    "Ultimate Super Mario Bros/Games/Donkey Kong 3.md",
-    "Ultimate Super Mario Bros/Games/Donkey Kong Hockey.md",
-    "Ultimate Super Mario Bros/Characters/Pinky Kong.md",
-    "Ultimate Super Mario Bros/Characters/Swee'Pea.md",
-    "Ultimate Super Mario Bros/Characters/J. Wellington Wimpy.md",
-    "Ultimate Super Mario Bros/Characters/Bluto the Brute.md",
-    "Ultimate Super Mario Bros/Characters/Sea Hag.md",
-    "Ultimate Super Mario Bros/Characters/Olive Oyl.md",
-    "Ultimate Super Mario Bros/Characters/Popeye the Sailor.md",
     "Ultimate Super Mario Bros/Characters",
     "Ultimate Super Mario Bros/Games",
     "Ultimate Super Mario Bros",
