@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md",
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md",
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md",
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md"
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md"
+              }
+            }
+          },
+          {
+            "id": "86e532a3c702ecc3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,6 +158,7 @@
   },
   "active": "786311eb35c20049",
   "lastOpenFiles": [
+    "Ultimate Sonic the Hedgehog/Locations/South Island.md",
     "Ultimate Sonic the Hedgehog/Locations/Zones/Zone.md",
     "Ultimate Sonic the Hedgehog/Locations/Zones/Red Gate Bay.md",
     "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
@@ -165,7 +176,7 @@
     "Ultimate Super Mario Bros/Games/Crazy Kong (Falcon).md",
     "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
     "Giant Ring.md",
-    "Ultimate Sonic the Hedgehog/Eggtech/Egg Beacons.md",
+    "Ultimate Sonic the Hedgehog/Technology/Eggtech/Egg Beacons.md",
     "Ultimate Super Mario Bros/Games/Family Basic Famicom.md",
     "Ultimate Super Mario Bros/Games/Punch Out (NES).md",
     "Ultimate Super Mario Bros/Games/Punch Out (Arcade).md",
@@ -174,11 +185,10 @@
     "Ultimate Super Mario Bros/Games/Mario's Cement Factory G&W (Modern).md",
     "Ultimate Super Mario Bros/Games/Mario's Cement Factory.md",
     "Ultimate Super Mario Bros/Games/Donkey Kong Jr. (Tabletop).md",
-    "The Resistance.md",
     "Ultimate Super Mario Bros/Characters",
     "Ultimate Super Mario Bros/Games",
     "Ultimate Super Mario Bros",
-    "Ultimate Sonic the Hedgehog/Eggtech",
+    "Ultimate Sonic the Hedgehog/Technology/Eggtech",
     "Ultimate Sonic the Hedgehog/Locations/Zones",
     "Ultimate Sonic the Hedgehog/Locations",
     "Ultimate Sonic the Hedgehog/Games",
