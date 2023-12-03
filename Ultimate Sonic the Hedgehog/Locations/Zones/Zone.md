@@ -2,3 +2,5 @@ Zone is a term for a region on the [[Mobius||Planet Mobius]]. Each Zone operates
 
 For specific Zones, check:
 - [[South Island]]
+
+Tags: #Locations #Zones 

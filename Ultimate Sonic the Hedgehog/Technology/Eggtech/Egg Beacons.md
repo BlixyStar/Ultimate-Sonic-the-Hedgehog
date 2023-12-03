@@ -1,1 +1,3 @@
 Egg Beacons, also known as Goal Plates & Spinning Signs, are the [[Eggnet||network]] connection of the [[Zone]] with local groups of [[Badniks]]. They were created by [[Dr. Eggman]] to quickly transfer data and directives from [[Zone]] to [[Zone]]. Although, their flawed system allows outsiders to manipulate & disrupt the flow of the network by simply spinning the Beacon. The more specialized can even take over their signal and use local badniks as a way to restore the [[Zone]] from [[Dr. Eggman||Eggman's]] influence.
+
+Tags: #Eggtech 

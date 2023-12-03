@@ -11,3 +11,5 @@ As [[Rava the Destroyer||the destroyer]] enforced his reign on [[Echidna Tribe||
 Although the loss of the shrine, the brother resurfaced victorious, as there was no trace of the destroyer after removing the debris. The tribe celebrated the victory of the two brothers & banishment of the usurper, swearing to never let any outsider in.
 
 As for the two brothers, their ideas on how to keep intruders out divided them even more, resulting in internal conflict within the tribe. One wanted to hide within the lush & dungeons, as the other wanted harsh enforcement of their territory. Their disagreement resulted in division not only of [[Knuckles Clan||the tribe]], but the [[Chaos Emeralds||seven gems]] scattered across the land as well, as the [[Nocturnus Clan||enforcers]] got banished and claimed traitors by the [[Princess Alucion||chief]].
+
+#In-Universe
