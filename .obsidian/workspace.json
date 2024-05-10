@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md",
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md",
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md",
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Sonic the Hedgehog/Locations/South Island.md"
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "786311eb35c20049",
   "lastOpenFiles": [
+    "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
+    "Ultimate Super Mario Bros/Games/Pinball.md",
     "Ultimate Sonic the Hedgehog/Locations/Zones/Zone.md",
     "Ultimate Sonic the Hedgehog/Locations/Zones/Red Gate Bay.md",
+    "Ultimate Sonic the Hedgehog/Locations/South Island.md",
     "Ultimate Super Mario Bros/Games/Crazy Junior King.md",
     "Ultimate Super Mario Bros/Characters/Crazy Junior.md",
     "Ultimate Super Mario Bros/Characters/Crazy Kong.md",
@@ -172,9 +175,6 @@
     "Ultimate Super Mario Bros/Games/Tennis (NES).md",
     "Ultimate Super Mario Bros/Games/Mario's Bombs Away.md",
     "Ultimate Super Mario Bros/Games/Mario's Cement Factory G&W (Modern).md",
-    "Ultimate Super Mario Bros/Games/Mario's Cement Factory.md",
-    "Ultimate Super Mario Bros/Games/Donkey Kong Jr. (Tabletop).md",
-    "The Resistance.md",
     "Ultimate Super Mario Bros/Characters",
     "Ultimate Super Mario Bros/Games",
     "Ultimate Super Mario Bros",
