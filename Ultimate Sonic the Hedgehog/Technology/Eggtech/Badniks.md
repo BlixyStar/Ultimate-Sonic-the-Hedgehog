@@ -8,3 +8,5 @@ Badniks are a group of robots created & constructed by [[Dr. Eggman]]. They are 
 Most badniks follow the themes such as: plants, animals, insects & even Dr. Eggman himself.
 
 To view the list of Badniks, it's recommended to look for them on a specific [[Zone]] containing their respective lists.
+
+Tags: #Badniks #Eggtech #Groups

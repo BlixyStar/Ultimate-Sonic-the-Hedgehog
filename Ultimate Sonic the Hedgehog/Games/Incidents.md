@@ -2,3 +2,5 @@ Across the modern history of planet [[Mobius]], there have been a lot of invasio
 
 ### [[Sonic the Hedgehog (16-bit)||South Island ~ Scrap Brain Incident]]
 Upon successful conquer of Scrap Brain Zone, nefarious Doctor Robotnik detected Chaos Energy activities from Chaos Emeralds within the South Island. He sent hordes of badniks to retrieve the source of it, but were stopped by the heroic hedgehog, Nicolas Quill, also known as Sonic the Hedgehog. Sonic managed to collect all 6 Chaos Emeralds within the island & destroy Robotnik's main engines from Scrap Brain Zones, freeing enslaved workers of the factories from their robotic Shells. After the incident, natural growth of flora was detected to greatly increase, thanks to mythical power of Emeralds.
+
+Tags: #In-Universe 

@@ -6,3 +6,5 @@ South Island is, as the name suggest. An island located on the south of [[Chaos 
 - [[Star Light Zone]]
 - [[Scrap Brain Zone]]
 - [[Final Zone]]
+
+Tags: #Islands #Locations
