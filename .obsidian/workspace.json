@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe0288ea9d56c4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d7c222ac20cd81",
+  "active": "fe0288ea9d56c4c1",
   "lastOpenFiles": [
+    "Ultimate Sonic the Hedgehog/Technology/Checkpoints.md",
     "Ultimate Sonic the Hedgehog/Games/Sonic the Hedgehog (16-bit).md",
     "Ultimate Sonic the Hedgehog/The Legend of Seven Emeralds & their Master.md",
     "Ultimate Super Mario Bros/Games/Pinball.md",
@@ -186,7 +200,6 @@
     "Ultimate Super Mario Bros/Games/Punch Out (Arcade).md",
     "Ultimate Super Mario Bros/Games/Tennis (NES).md",
     "Ultimate Super Mario Bros/Games/Mario's Bombs Away.md",
-    "Ultimate Super Mario Bros/Games/Mario's Cement Factory G&W (Modern).md",
     "Ultimate Super Mario Bros/Characters",
     "Ultimate Super Mario Bros/Games",
     "Ultimate Super Mario Bros",
